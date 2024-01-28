@@ -21,11 +21,11 @@ Create a sign up page, modal, form, or app screen related to signing up for some
 
 ### Screenshot
 
-![]()
+![](./src/assets/Slice%201.png)
 
 ### Links
 
-- Solution URL: [Github Repo]()
+- Solution URL: [Github Repo](https://github.com/Robert-Thaiyah/30-days-ui-to-react-challenge/tree/main/Day-1)
 - Live Site URL: [Livesite URL]()
 
 ## My process

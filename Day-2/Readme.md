@@ -14,7 +14,11 @@
 
 This is a challenge of the #100daysofUI and the prompt was as follows:
 
-Prompt: 
+Prompt: Credit Card Checkout
+
+Design a credit card checkout form or page. Don't forget the important elements such as the numbers, dates, security numbers, etc.
+
+Share your design on Dribbble or Twitter with #DailyUI
 
 
 ### Screenshot
