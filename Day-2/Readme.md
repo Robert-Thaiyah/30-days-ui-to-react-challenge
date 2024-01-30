@@ -23,11 +23,11 @@ Share your design on Dribbble or Twitter with #DailyUI
 
 ### Screenshot
 
-![]()
+![](./src/assets/FireShot%20Capture%20006%20-%20React%20App%20-%20localhost.png)
 
 ### Links
 
-- Solution URL: [Github Repo]()
+- Solution URL: [Github Repo](https://github.com/Robert-Thaiyah/30-days-ui-to-react-challenge/tree/main/Day-2)
 - Live Site URL: [Livesite URL]()
 
 ## My process
@@ -42,6 +42,8 @@ Share your design on Dribbble or Twitter with #DailyUI
 - Flexbox
 - CSS Grid
 - Tailwind CSS
+- React
+- React Icons
 
 ### Continued development
 
