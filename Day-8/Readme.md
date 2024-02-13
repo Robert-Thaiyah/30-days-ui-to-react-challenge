@@ -14,24 +14,28 @@
 
 This is a challenge of the #100daysofUI and the prompt was as follows:
 
-Prompt: 
+Prompt:  404 Page Design
+
+Design a 404 page - that's not boring! 
+ 
+Does it suit the brand's style? Is it user-friendly? It might sound mundane, but not everything can be flashy or glamorous. Every day millions of people will be landing on 404 pages. You have an opportunity to help them in a way that's useful and aesthetically pleasing. (It's up to you!)
 
 
 ### Screenshot
 
-![]()
+![](./src/assets/screenshot.png)
 
 ### Links
 
-- Solution URL: [Github Repo]()
+- Solution URL: [Github Repo](https://github.com/Robert-Thaiyah/30-days-ui-to-react-challenge/tree/main/Day-8)
 - Live Site URL: [Livesite URL]()
 
 ## My process
 
-- First I did research on the different trypes of UI login pages from Dribbble and Behance websites.
-- After that, I created a simple mockup using Figma.
-- Then I built a shell using HTML and Tailwind.
-- Added some small functionality using Javascript.
+- First I did research on the different trypes of UI 404 pages from Dribbble and Behance websites.
+- After that, I created a simple mockup using Figma and Adobe XD.
+- Then I built a shell using React and Tailwind.
+- Added some small functionality using Javascript (later).
 ### Built with
 
 - Semantic HTML5 markup
