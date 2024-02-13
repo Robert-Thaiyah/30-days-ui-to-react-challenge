@@ -21,7 +21,7 @@ What's the main focus? Is it for a book, an album, a mobile app, a SaaS product?
 
 ### Screenshot
 
-![](/src/assets/screenshot.png)
+![](./src/assets/screenshot.png)
 
 ### Links
 
