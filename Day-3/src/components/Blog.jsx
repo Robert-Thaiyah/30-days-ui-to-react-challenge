@@ -4,9 +4,9 @@ const Blog = () => {
   return (
 
     
-    <div className='max-w-[1000px] mx-auto p-4 gap-5 w-full h-full'>
-<div class="max-w-xl">
-      <h2 class="text-3xl font-bold sm:text-4xl">What makes us special</h2>
+    <div className='container mx-auto p-4 gap-5 w-full h-full'>
+<div class="max-w-xl mb-5">
+      <h2 class="text-3xl font-bold sm:text-4xl">Blog</h2>
 
       <p class="mt-4 text-black">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat dolores iure fugit totam
@@ -19,15 +19,15 @@ const Blog = () => {
     <article className="overflow-hidden rounded-lg shadow transition hover:shadow-lg">
   <img
     alt=""
-    src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    src="https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     className="h-56 w-full object-cover"
   />
 
   <div className="bg-white p-4 sm:p-6">
-    <time datetime="2022-10-10" className="block text-xs text-gray-500"> 10th Oct 2022 </time>
+    <time datetime="2022-10-10" className="block text-xs text-gray-500"> 10th Oct 2023 </time>
 
     <a href="#">
-      <h3 className="mt-0.5 text-lg text-gray-900">How to position your furniture for positivity</h3>
+      <h3 className="mt-0.5 text-lg text-gray-900">5 reason to buy our smart watch</h3>
     </a>
 
     <p className="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">
@@ -41,15 +41,15 @@ const Blog = () => {
 <article className="overflow-hidden rounded-lg shadow transition hover:shadow-lg">
   <img
     alt=""
-    src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    src="https://images.pexels.com/photos/437036/pexels-photo-437036.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     className="h-56 w-full object-cover"
   />
 
   <div className="bg-white p-4 sm:p-6">
-    <time datetime="2022-10-10" className="block text-xs text-gray-500"> 10th Oct 2022 </time>
+    <time datetime="2022-10-10" className="block text-xs text-gray-500"> 10th Sept 2022 </time>
 
     <a href="#">
-      <h3 className="mt-0.5 text-lg text-gray-900">How to position your furniture for positivity</h3>
+      <h3 className="mt-0.5 text-lg text-gray-900">Reasons why IP testing is a waste of time</h3>
     </a>
 
     <p className="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">
@@ -63,15 +63,15 @@ const Blog = () => {
 <article className="overflow-hidden rounded-lg shadow transition hover:shadow-lg">
   <img
     alt=""
-    src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    src="https://images.pexels.com/photos/110471/pexels-photo-110471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     className="h-56 w-full object-cover"
   />
 
   <div className="bg-white p-4 sm:p-6">
-    <time datetime="2022-10-10" className="block text-xs text-gray-500"> 10th Oct 2022 </time>
+    <time datetime="2022-10-10" className="block text-xs text-gray-500"> 10th Jun 2022 </time>
 
     <a href="#">
-      <h3 className="mt-0.5 text-lg text-gray-900">How to position your furniture for positivity</h3>
+      <h3 className="mt-0.5 text-lg text-gray-900">How to set up the wifi on the watch</h3>
     </a>
 
     <p className="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">
