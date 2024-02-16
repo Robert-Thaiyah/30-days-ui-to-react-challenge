@@ -14,16 +14,18 @@
 
 This is a challenge of the #100daysofUI and the prompt was as follows:
 
-Prompt: 
+Prompt: Social Share
+
+Design a social share button/icon and be mindful of the size, imagery, placement, and purpose for sharing. It could be to share an article snippet, or a simple link with a photo.
 
 
 ### Screenshot
 
-![]()
+![](./src/assets/screenshot.png)
 
 ### Links
 
-- Solution URL: [Github Repo]()
+- Solution URL: [Github Repo](https://github.com/Robert-Thaiyah/30-days-ui-to-react-challenge/tree/main/Day-10)
 - Live Site URL: [Livesite URL]()
 
 ## My process
