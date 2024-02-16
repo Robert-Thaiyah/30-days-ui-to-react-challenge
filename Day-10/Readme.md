@@ -30,16 +30,17 @@ Design a social share button/icon and be mindful of the size, imagery, placement
 
 ## My process
 
-- First I did research on the different trypes of UI login pages from Dribbble and Behance websites.
-- After that, I created a simple mockup using Figma.
-- Then I built a shell using HTML and Tailwind.
-- Added some small functionality using Javascript.
+- First I did research on the different trypes of Social Share pages from Dribbble and Behance websites.
+- After that, I created a simple mockup using Figma and Adobe XD.
+- Then I built a shell using Reactand Material Tailwind.
+
 ### Built with
 
 - Semantic HTML5 markup
 - Flexbox
 - CSS Grid
 - Tailwind CSS
+- React
 
 ### Continued development
 
