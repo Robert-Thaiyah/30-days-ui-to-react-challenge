@@ -14,30 +14,33 @@
 
 This is a challenge of the #100daysofUI and the prompt was as follows:
 
-Prompt: 
+Prompt: On/Off Switch
+
+Consider what's being turned on/off and how it should be done. Is it a push-to-start electric vehicle? A control panel for a smart refrigerator or some other touch-panel display? 
 
 
 ### Screenshot
 
-![]()
+![](./src/assets/screenshot.png)
 
 ### Links
 
-- Solution URL: [Github Repo]()
+- Solution URL: [Github Repo](https://github.com/Robert-Thaiyah/30-days-ui-to-react-challenge/tree/main/Day-12)
 - Live Site URL: [Livesite URL]()
 
 ## My process
 
-- First I did research on the different trypes of UI login pages from Dribbble and Behance websites.
+- First I did research on the different types of Switches UI from Dribbble and Behance websites.
 - After that, I created a simple mockup using Figma.
-- Then I built a shell using HTML and Tailwind.
-- Added some small functionality using Javascript.
+- Then I built a shell using React and Tailwind.
+- Functionality will be added later on.
 ### Built with
 
 - Semantic HTML5 markup
 - Flexbox
 - CSS Grid
 - Tailwind CSS
+- React
 
 ### Continued development
 

@@ -1,0 +1,6 @@
+.switch[data-isOn="true"] {
+    justify-content: flex-end;
+    background-color: gray;
+    transition: all;
+    transition-duration: 700ms;
+  }
