@@ -14,24 +14,28 @@
 
 This is a challenge of the #100daysofUI and the prompt was as follows:
 
-Prompt: 
+Prompt: E-commerce Shop
+
+Design an e-commerce shop. Is it simple for a local business or a large online retailer? Is it for clothing, shoes, handmade soap, or something else? 
+
+Consider the brand, the products offered, product views, product options, desired actions (conversions, product views, pricing options, etc.) and of course, the users!
 
 
 ### Screenshot
 
-![]()
+![](./src/assets/screenshot.png)
 
 ### Links
 
-- Solution URL: [Github Repo]()
+- Solution URL: [Github Repo](https://github.com/Robert-Thaiyah/30-days-ui-to-react-challenge/tree/main/Day-15)
 - Live Site URL: [Livesite URL]()
 
 ## My process
 
-- First I did research on the different trypes of UI login pages from Dribbble and Behance websites.
+- First I did research on the different trypes of E-commerce pages from Dribbble and Behance websites.
 - After that, I created a simple mockup using Figma.
-- Then I built a shell using HTML and Tailwind.
-- Added some small functionality using Javascript.
+- Then I built a shell using React and Tailwind.
+- Navigation through the three tabs added.
 ### Built with
 
 - Semantic HTML5 markup
