@@ -14,30 +14,33 @@
 
 This is a challenge of the #100daysofUI and the prompt was as follows:
 
-Prompt: 
+Prompt: Pop-up Overlay
+
+Is it for a newsletter sign-up form ? Is it an ad overlay? A gated subscription page such as for premium news or member-only access?
 
 
 ### Screenshot
 
-![]()
+![](./src/assets/screenshot.png)
 
 ### Links
 
-- Solution URL: [Github Repo]()
+- Solution URL: [Github Repo](https://github.com/Robert-Thaiyah/30-days-ui-to-react-challenge/tree/main/Day-16)
 - Live Site URL: [Livesite URL]()
 
 ## My process
 
-- First I did research on the different trypes of UI login pages from Dribbble and Behance websites.
+- First I did research on the different types of modals from Dribbble and Behance websites.
 - After that, I created a simple mockup using Figma.
-- Then I built a shell using HTML and Tailwind.
-- Added some small functionality using Javascript.
+- Then I built a shell using React and Tailwind.
+- Functionality added using React States.
 ### Built with
 
 - Semantic HTML5 markup
 - Flexbox
 - CSS Grid
 - Tailwind CSS
+- React
 
 ### Continued development
 
